@@ -82,3 +82,6 @@ With event bubbling that is how a parent component
 
 
 Event bubbling means that the event moves from the child component to the parent component. Under the hood it is moving through the DOM and goes all the way up. 
+
+
+//frontend
